@@ -6,8 +6,8 @@ CVF Encryption基于以AES算法进行加密，其伪加密仅用于处理加密
 本程序暂未制作UI版，程序基于批处理命令行运行，唯一显示的窗口即cmd窗口。  
 
 
-# cvf-info  
-=- 前言 -=  
+# cvf-setup_info  
+	=- 前言 -=  
 	欢迎安装CVF P.Encryption  
 	此软件为免费软件，不得用于任何盈利项目。  
 	此软件原理非常简单，仅供个人加密使用。  
@@ -58,16 +58,16 @@ CVF Encryption基于以AES算法进行加密，其伪加密仅用于处理加密
 	CVF Work.exe		--> 打开CVF安装路径程序  
 	Unenc.exe		--> 安装Encryptofor程序  
 	cvfa.exe		--> 伪加密编码程序  
-	cvfenccore.sper	--> 基础加密控制组件  
+	cvfenccore.sper		--> 基础加密控制组件  
 	cvfunenccore.sper	--> 基础解密控制组件  
-	cvfilesenc.sper	--> 基础文件加密组件  
+	cvfilesenc.sper		--> 基础文件加密组件  
 	cvfilesunenc.sper	--> 基础文件解密组件  
 	cvfaudioenc.sper	--> 基础音频加密组件  
 	cvfaudiounenc.sper	--> 基础音频解密组件  
 	cvfvideoenc.sper	--> 基础视频加密组件  
 	cvfvideounenc.sper	--> 基础视频解密组件  
 	cvfencinf.sper		--> 实加密程序信息组件  
-	cvflandetq.sper	--> 以Edge定制QQ组件  
+	cvflandetq.sper		--> 以Edge定制QQ组件  
 	cvfonlinedoc.sper	--> 以Edge定制文档组件  
 	cvfruncore.sper 	--> CVF核心控制组件  
 	cvfrunoutinfo.sper	--> CVF信息控制组件  
@@ -88,8 +88,8 @@ CVF Encryption基于以AES算法进行加密，其伪加密仅用于处理加密
   
   
   
-  # cvf-editon  
-  本程序安装完成后会在桌面创建一个名为CVF P.Encryption的快捷方式，双击打开CVF的安装页面。  
+  # cvf-简要使用说明
+  	本程序安装完成后会在桌面创建一个名为CVF P.Encryption的快捷方式，双击打开CVF的安装页面。  
 	因为本程序暂未编写关联程序的注册表项，所以文件加密解密都将先复制于程序安装目录。  
 	双击CVF Start.exe运行程序，然后键入1获取Encryption实加密程序。（如果安装程序向导已启动解密程序且您已安装可跳过此步骤。）  
 	
