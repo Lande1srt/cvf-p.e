@@ -46,7 +46,7 @@ CVF Encryption基于以AES算法进行加密，其伪加密仅用于处理加密
 GitHub：https://github.com/Lande1srt/cvf-p.e  
 蔚蓝空间：http://tanmvnku.ysepan.com  
 E-mail：vnkus.lande@outlook.com  
-Tencnet QQ：309483098  
+Tencnet QQ：[309483098  ](https://qm.qq.com/cgi-bin/qm/qr?k=mXLPE5aidmDGmqfHNM9vw9GwB_Yj4QU8)  
 	
 =- 安全 -=  
 请确认此安装程序属性是否带有数字签名。  
