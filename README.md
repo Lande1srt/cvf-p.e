@@ -58,9 +58,17 @@ Tencnet QQ：[309483098  ](https://qm.qq.com/cgi-bin/qm/qr?k=mXLPE5aidmDGmqfHNM9
 =- 安全 -=  
 请确认此安装程序属性是否带有数字签名。  
 如果此安装程序属性带有数字签名，请对比序列号及其他信息。  
-数字签名证书序列号：3fce59d7186e098e43afec27a95494cc  
-数字签名证书指纹：33bd83800f97cec282e58ff1645f454f9acd0c28  
-数字签名证书公钥：30 81 89 02 81 81 00 e3 1b 96 20 b4 92 0e 69 43 4d 65 50 77 97 8e 69 93 ce 32 54 3c ae 1a 69 7c a7 0a f4 22 be d1 19 4e db 1a a6 f9 98 0d 73 13 1c 7e 9d 16 a9 fc 0f 63 14 36 6f 99 e4 d5 08 d3 24 15 98 5b e3 25 26 97 5b c6 85 41 dc 30 5a 9b 7e c9 ad 5c 8e 77 db 86 9b ea fc ad da f5 ba cd bf 7b 8b f3 8a 0e d1 1c 07 0e 88 30 fb 3d 54 24 59 22 0b 32 d0 0a 0c b4 02 2d 64 4b 7c 91 92 a2 c7 30 e9 31 7b 89 a1 02 03 01 00 01  
+数字签名证书序列号：  
+
+	3fce59d7186e098e43afec27a95494cc  
+	
+数字签名证书指纹：  
+
+	33bd83800f97cec282e58ff1645f454f9acd0c28  
+数字签名证书公钥：  
+
+	30 81 89 02 81 81 00 e3 1b 96 20 b4 92 0e 69 43 4d 65 50 77 97 8e 69 93 ce 32 54 3c ae 1a 69 7c a7 0a f4 22 be d1 19 4e db 1a a6 f9 98 0d 73 13 1c 7e 9d 16 a9 fc 0f 63 14 36 6f 99 e4 d5 08 d3 24 15 98 5b e3 25 26 97 5b c6 85 41 dc 30 5a 9b 7e c9 ad 5c 8e 77 db 86 9b ea fc ad da f5 ba cd bf 7b 8b f3 8a 0e d1 1c 07 0e 88 30 fb 3d 54 24 59 22 0b 32 d0 0a 0c b4 02 2d 64 4b 7c 91 92 a2 c7 30 e9 31 7b 89 a1 02 03 01 00 01  
+	
 	
 =- 组件 -= =- 基础包 -=
 
