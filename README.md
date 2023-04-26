@@ -12,7 +12,7 @@ CVF Encryption基于以AES算法进行加密，其伪加密仅用于处理加密
 如果指向下载的链接附有密码，密码为  
 
 	cvfa  
-# cvf-new version hash  
+# cvf-2.1.03 version hash  
 CRC32:  
 
 	652afd57  
