@@ -25,7 +25,9 @@ SHA-1:
 SHA-256:  
 
 	67d44ecb7d75b84cd5828b3296017bdcf566d00f42d921409fbc30495f88b93f
-	
+SHA-512:  
+
+	0401126a56c2f88366bf9bf10edd4d1890d724e8d6014db3ed71ebdb59f4567b05c6f1d05c91638c93d1f0d54e354f4399bb2286f2793aed1b3e810734ff8e14
 # cvf-setup_info  
 =- 前言 -=  
 欢迎安装CVF P.Encryption  
