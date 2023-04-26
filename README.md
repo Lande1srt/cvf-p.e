@@ -16,6 +16,9 @@ CVF Encryption基于以AES算法进行加密，其伪加密仅用于处理加密
 CRC32:  
 
 	652afd57  
+CRC64:  
+
+	e7da0fb6ae0c51b1
 MD5:  
 
 	1fa7ff10c7420d3a625a3268dd3f0d17  
