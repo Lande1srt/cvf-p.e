@@ -6,7 +6,6 @@ CVF Encryption基于以AES算法进行加密，其伪加密仅用于处理加密
 本程序暂未制作UI版，程序基于批处理命令行运行，唯一显示的窗口即cmd窗口。  
 
 下载链接1：https://vnkus.lanzouo.com/b02qevrxe  
-下载链接2：https://www.aliyundrive.com/s/xiKRuyebqbX  
 下载链接3：https://www.123pan.com/s/bYVA-myYoA.html  
 
 如果指向下载的链接附有密码，密码为：  
